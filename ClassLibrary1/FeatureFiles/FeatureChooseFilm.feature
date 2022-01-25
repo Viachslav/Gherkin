@@ -11,7 +11,7 @@ in order to watch relevant films
 As a user
 I want to find my favorite film  by its name
 in order to watch it
-
+fgngnm
 
 Background: 
 Given user on the homepage
