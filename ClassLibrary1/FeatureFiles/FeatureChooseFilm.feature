@@ -16,19 +16,19 @@ in order to watch it
 Background: 
 Given user on the homepage
 
-Scenario: Choose new films
+Scenario: choose new films
 	When user clicks on the 'New films' button
 	Then user sees chosen default page 'Latest intakes' on the screen
-	Then user sees a text 'Смотреть новинки фильмов в HD онлайн'
-	Then user can choose film made in 2022
+	And user sees a text 'Смотреть новинки фильмов в HD онлайн'
+	And user can choose film made in 2022
 
-Scenario: Search by genre
+Scenario: search by genre
 	When user clicks on 'Film' button
 	And user Clicks a 'Drama' button 
 	And user clicks on 'Popular' filter
 	Then user sees a sorted content of certain genre
 
-Scenario: Search a film by its name
+Scenario: search a film by its name
 	When user clicks on 'Search' field
 	And user inputs an 'Avatar' in this field
 	And user clicks on the 'Avatar' item in drop-down menu

@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="FeatureFiles\FeatureChooseFilm.feature" />
+    <None Include="FeatureFiles\ChangePlayerConfig.feature" />
     <None Include="FeatureFiles\FeatureWriteComment.feature" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
