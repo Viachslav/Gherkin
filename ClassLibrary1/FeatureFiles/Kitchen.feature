@@ -40,12 +40,3 @@ As a housewife
 I want to have a lock on the kitchen door
 in order to prevent my children disturb me during cooking
 
-
-
-
-
-@tag1
-Scenario: [scenario name]
-	Given [context]
-	When [action]
-	Then [outcome]
