@@ -18,7 +18,7 @@ In order to clean hands after meal
 
 As a housewife 
 I want to have a place for books
-In order to store there favorite recipies
+In order to store there favorite recipes
 
 As a chef 
 I want to see picturesque painting on the kitchen wall
