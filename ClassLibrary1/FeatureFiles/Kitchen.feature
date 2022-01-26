@@ -25,7 +25,7 @@ I want to see picturesque painting on the kitchen wall
 In order to be a bit distracted from a work
 
 As a kitchen owner 
-I want to have a reliable siphone
+I want to have a reliable siphon
 In order to avoid leaks from sink
 
 As a visitor
