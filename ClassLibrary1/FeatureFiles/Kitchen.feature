@@ -36,6 +36,10 @@ As a taxpayer
 I want to install electric oven
 In order to pay less taxes for gas
 
+As a housewife 
+I want to have a lock on the kitchen door
+in order to prevent my children disturb me during cooking
+
 
 
 
