@@ -52,6 +52,7 @@
     <None Include="FeatureFiles\FeatureChooseFilm.feature" />
     <None Include="FeatureFiles\ChangePlayerConfig.feature" />
     <None Include="FeatureFiles\FeatureWriteComment.feature" />
+    <None Include="FeatureFiles\Kitchen.feature" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

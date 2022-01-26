@@ -33,8 +33,3 @@ Scenario: search a film by its name
 	And user inputs an 'Avatar' in this field
 	And user clicks on the 'Avatar' item in drop-down menu
 	Then user sees a page with a chosen film
-
-
-
-
-	
