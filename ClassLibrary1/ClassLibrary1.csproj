@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="FeatureFiles\FeatureChooseFilm.feature" />
-    <None Include="FeatureFiles\ChangePlayerConfig.feature" />
+    <None Include="FeatureFiles\FeatureChangePlayerConfig.feature" />
     <None Include="FeatureFiles\FeatureWriteComment.feature" />
     <None Include="FeatureFiles\Kitchen.feature" />
   </ItemGroup>

@@ -32,6 +32,9 @@ As a visitor
 I want to see beautiful scenery from the window
 In order to enjoy process having a meal
 
+As a taxpayer 
+I want to install electric oven
+In order to pay less taxes for gas
 
 
 
